@@ -34,6 +34,7 @@
 }
 .task-wrapper {
   display: flex;
+  padding-bottom: 20px;
 }
 .task__list {
   margin: 0;
